@@ -7,7 +7,7 @@ The purpose of this analysis was to create a dynamic webpage to filter through a
 ## Results:
 ![Screen shot of entire landing page](/static/images/UFOFinder_Landing.png)
 The data can be filtered by date, city, state, coutry, and shape.
-Each parameter can be filtered individually or as a combination.
+Each parameter can be filtered individually or as a combination.\
 ![Screen shot of filter section](static/images/filters.png)
 
 ## Summary:
